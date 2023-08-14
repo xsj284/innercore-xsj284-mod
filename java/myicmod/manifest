@@ -4,6 +4,6 @@
     ],
     "library-dirs": ["lib"],
     "boot-classes": [
-        "com.xsj284.sample.Boot"
+        "com.xsj284.myicmod.Boot"
     ]
 }
