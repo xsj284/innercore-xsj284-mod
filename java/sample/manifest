@@ -1,0 +1,9 @@
+{
+    "source-dirs": [
+        "src"
+    ],
+    "library-dirs": ["lib"],
+    "boot-classes": [
+        "com.xsj284.sample.Boot"
+    ]
+}

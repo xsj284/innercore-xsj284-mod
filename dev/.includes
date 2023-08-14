@@ -1,0 +1,4 @@
+declarations/**/*.d.ts
+
+src/importLib.ts
+src/header.ts
